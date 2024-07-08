@@ -1,0 +1,91 @@
+.section-main-text {
+    font-size: 80px;
+    font-weight: 900px;
+    color: rgba(34, 33, 36, 1);
+    margin-bottom: 14px;
+}
+
+.section1-text-div {
+    margin-top: 100px;
+    margin-left: 130px;
+    width: 434px;
+}
+
+.section-small-text {
+    font-size: 14px;
+    color: rgba(34, 33, 36, 1);
+    font-weight: 400px;
+    width: 300px;
+    line-height: 1.5rem;
+}
+
+.section1-carusel {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 130px;
+    margin-top: 65px;
+
+}
+
+.section1-carusel-div {
+    margin-right: 30px;
+    width: 255px;
+    background-color: rgba(241, 179, 1, 1);
+    border-radius: 10px;
+}
+
+.section1-button {
+    margin: 20px;
+    padding: 5px 22px;
+    color: white;
+    background-color: rgba(255, 200, 92, 1);
+    font-size: 16px;
+    border: none;
+    border-radius: 30px;
+}
+
+.section1-carusel-pitsa {
+    font-size: 40px;
+    font-weight: 700px;
+    color: rgba(231, 106, 6, 1);
+    margin-left: 30px;
+}
+
+.carusel-img {
+    display: flex;
+}
+
+.section1-carusel-div2 {
+
+    width: 255px;
+    background-color: rgba(128, 10, 122, 1);
+    border-radius: 10px;
+}
+
+.section1-button2 {
+    margin: 20px;
+    padding: 5px 22px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.2033);
+    font-size: 16px;
+    border: none;
+    border-radius: 30px;
+
+}
+
+.section1-carusel-pitsa2 {
+    font-size: 35px;
+    font-weight: 700px;
+    color: rgba(252, 150, 247, 1);
+    margin-left: 30px;
+}
+
+.carusel-img2 {
+    display: flex;
+}
+
+.carusel-img2 img {
+
+    position: relative;
+    right: 16px;
+}

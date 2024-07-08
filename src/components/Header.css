@@ -1,0 +1,47 @@
+.main-div {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+
+}
+
+.header-image {
+    margin-left: 120px;
+}
+
+.header-ul {
+    display: flex;
+    list-style-type: none;
+
+
+}
+
+.header-li {
+    padding-right: 40px;
+    font-weight: 400px;
+    font-size: 14px;
+    font-style: inherit;
+    cursor: pointer;
+}
+
+.header-icon2 {
+
+    display: none;
+}
+
+@media screen and (max-width: 414px) {
+    .main-div {
+        display: none;
+    }
+
+    .header-icon2 {
+
+        display: block;
+    }
+
+
+
+
+}

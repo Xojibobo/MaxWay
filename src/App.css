@@ -1,0 +1,29 @@
+.app-header-div1 {
+
+    width: 60%;
+}
+
+.app-header-div2 {
+    width: 40%;
+    background-color: rgba(128, 10, 122, 1);
+
+}
+
+.app-main-div {
+    display: flex;
+
+
+}
+
+.main-ham1 {
+    display: flex;
+    position: relative;
+    right: 250px;
+    width: 700px;
+
+}
+
+.hr {
+    border: 1px solid rgba(151, 151, 151, 1);
+    margin: 80px 130px 40px;
+}

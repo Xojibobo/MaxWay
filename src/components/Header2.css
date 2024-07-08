@@ -1,0 +1,62 @@
+.main-header2-div {
+    display: flex;
+    padding: 20px;
+}
+
+.header2-div1 {
+    display: flex;
+    align-items: center;
+    padding-right: 40px;
+    border-right: 1px solid white;
+
+
+}
+
+.number1 {
+    padding-left: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.phone-code {
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+}
+
+.phone-number {
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+
+.number-icon {
+    position: relative;
+    bottom: 15px;
+    right: 10px;
+    color: white;
+    border-radius: 50%;
+    font-size: 10px;
+    padding: 2px 5px;
+    background-color: rgba(241, 179, 1, 1);
+}
+
+.accuount {
+    display: flex;
+    padding-top: 10px;
+    align-items: center;
+    padding-left: 40px;
+}
+
+.info-div {
+
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+@media screen and (max-width: 414px) {
+    .main-header2-div {
+        display: none;
+    }
+}
